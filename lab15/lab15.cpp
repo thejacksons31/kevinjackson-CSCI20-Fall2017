@@ -1,6 +1,6 @@
 /*Kevin Jackson
 9/11/17
-this program will be a mad lip*/
+this program will be a mad lip with strings as the inputs.*/
  
  #include <iostream>
  #include <string>
